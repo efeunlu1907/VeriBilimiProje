@@ -24,11 +24,7 @@ Her promptun hangi proje adımında kullanıldığı belirtilmiştir.
 | 16 | Kalite kontrol | "Notebook'u baştan sona çalıştırıp hiçbir hücrenin hata vermediğini ve tüm grafiklerin üretildiğini doğrula." |
 | 17 | Eksik veri (ders referansı) | "Ders notebook'larını (Keşifsel Veri Analizi, İstatistik) referans alarak, veri tam olsa bile bir eksik veri senaryosu ekle: bir kopyada yapay eksik değer üret, tespit et ve ortalama/medyan/KNN ile doldurup RMSE ile karşılaştır. Çok karıştırma." |
 | 18 | Çıkarımsal istatistik | "Ev sahibi avantajı sorusunu sadece betimsel değil, hipotez testiyle de yanıtla: kesin sonuçlu maçlarda binom testi kur, H0/H1 ve p-değerini raporla." |
-| 19 | sklearn kullanımı | "Notebook'a, kullandığımız sklearn bileşenlerinin (train_test_split, StandardScaler, LogisticRegression, metrikler, imputer'lar) her birinin ne için kullanıldığını gösteren kısa bir kullanım tablosu ekle." |
-| 20 | Rapor güncelleme | "Eklenen eksik veri senaryosunu ve hipotez testi sonucunu rapora işle; raporu 3-5 sayfa aralığında tut." |
-| 21 | GitHub'a yayınlama | "Projeyi efeunlu1907 hesabında herkese açık bir GitHub deposu olarak oluştur, main dalına gönder; commit'lerde yapay zekâ ortak-yazar bilgisi bulunmasın." |
-| 22 | Ekip bilgisi | "README ve rapora ekip bilgilerini ekle: Efe Ünlü (1306240091) ve Mert Kurthasan (1306240033)." |
-| 23 | Sadeleştirme | "Teslim setini sadeleştir: rapor figürlerini ve gereksiz Markdown rapor kaynağını (PDF yeterli) ile ödev metnini (Proje.md) kaldır; sklearn bölümünü yalnızca kullanımı anlatacak biçimde sadeleştir." |
+| 19 | Rapor güncelleme | "Eklenen eksik veri senaryosunu ve hipotez testi sonucunu rapora işle; raporu 3-5 sayfa aralığında tut." |
 
 > Not: Promptlar, projenin gerçek geliştirme akışını yansıtacak şekilde özetlenmiştir.
 > Üretilen tüm kod blokları gözden geçirilmiş ve anlaşılarak kullanılmıştır.
