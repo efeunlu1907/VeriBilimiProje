@@ -6,11 +6,10 @@ analizi (EDA), araştırma sorularının yanıtlanması ve basit bir sınıfland
 
 ## 👥 Proje Ekibi
 
-> ⚠️ Aşağıdaki bilgileri teslimden önce kendi bilgilerinizle doldurun.
-
-| Öğrenci Numarası | Adı Soyadı |
-| ---------------- | ---------- |
-| `__________`     | Efe Ünlü   |
+| Öğrenci Numarası | Adı Soyadı     |
+| ---------------- | -------------- |
+| 1306240091       | Efe Ünlü       |
+| 1306240033       | Mert Kurthasan |
 
 ## 🎯 Amaç ve Araştırma Soruları
 

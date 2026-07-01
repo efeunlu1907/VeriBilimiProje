@@ -15,5 +15,5 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Claude Code yerel ayarlari
+# Yerel arac/editor ayar klasorleri
 .claude/

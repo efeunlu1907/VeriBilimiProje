@@ -2,6 +2,8 @@
 
 **Veri Bilimi Dönem Projesi — Kısa Rapor**
 
+**Hazırlayanlar:** Efe Ünlü (1306240091) · Mert Kurthasan (1306240033)
+
 ---
 
 ## 1. Problem Tanımı
