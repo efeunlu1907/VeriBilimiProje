@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Sanal ortam
+venv/
+.venv/
+env/
+
+# Isletim sistemi / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Claude Code yerel ayarlari
+.claude/

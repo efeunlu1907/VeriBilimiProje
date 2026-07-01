@@ -1,0 +1,11 @@
+# Notebook'u calistirmak icin gerekli kutuphaneler
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+scipy>=1.10
+scikit-learn>=1.3
+notebook>=7.0
+
+# (Opsiyonel) rapor/rapor.pdf dosyasini yeniden uretmek icin
+reportlab>=4.0
