@@ -36,9 +36,7 @@ VeriBilimiProje/
 ├── notebook/
 │   └── spor_analitigi.ipynb       # Tüm analiz adımlarını içeren çalışır notebook
 └── rapor/
-    ├── rapor.md                   # Raporun kaynak (Markdown) hali
-    ├── rapor.pdf                  # Kısa rapor (3-5 sayfa)
-    └── figures/                   # Raporda kullanılan grafikler
+    └── rapor.pdf                  # Kısa rapor (3-5 sayfa)
 ```
 
 ## 🚀 Projeyi Çalıştırma
